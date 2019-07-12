@@ -1,0 +1,5 @@
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Sum_square_difference\Sum_square_difference\bin\Debug\Sum_square_difference.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Sum_square_difference\Sum_square_difference\obj\Debug\Sum_square_difference.pdb

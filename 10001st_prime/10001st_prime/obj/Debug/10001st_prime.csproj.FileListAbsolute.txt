@@ -1,0 +1,5 @@
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\10001st_prime\10001st_prime\bin\Debug\10001st_prime.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\10001st_prime\10001st_prime\bin\Debug\10001st_prime.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\10001st_prime\10001st_prime\bin\Debug\10001st_prime.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\10001st_prime\10001st_prime\obj\Debug\10001st_prime.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\10001st_prime\10001st_prime\obj\Debug\10001st_prime.pdb

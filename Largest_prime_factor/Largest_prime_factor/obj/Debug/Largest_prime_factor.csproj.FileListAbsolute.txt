@@ -1,0 +1,12 @@
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.csprojResolveAssemblyReference.cache
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\bin\Debug\Largest_prime_factor.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Largest_prime_factor\Largest_prime_factor\obj\Debug\Largest_prime_factor.csprojResolveAssemblyReference.cache

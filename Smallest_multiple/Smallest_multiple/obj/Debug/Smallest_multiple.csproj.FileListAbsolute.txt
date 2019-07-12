@@ -1,0 +1,6 @@
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\bin\Debug\Smallest_multiple.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\bin\Debug\Smallest_multiple.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\bin\Debug\Smallest_multiple.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\obj\Debug\Smallest_multiple.csprojResolveAssemblyReference.cache
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\obj\Debug\Smallest_multiple.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Smallest_multiple\Smallest_multiple\obj\Debug\Smallest_multiple.pdb

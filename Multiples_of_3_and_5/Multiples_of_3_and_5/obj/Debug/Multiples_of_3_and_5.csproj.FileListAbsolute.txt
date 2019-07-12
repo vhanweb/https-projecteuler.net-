@@ -1,0 +1,6 @@
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.exe.config
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\bin\Debug\Multiples_of_3_and_5.pdb
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.csprojResolveAssemblyReference.cache
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.exe
+C:\Users\yofan_ah.p\Documents\Tes\Projek\tes\https-projecteuler.net-\Multiples_of_3_and_5\Multiples_of_3_and_5\obj\Debug\Multiples_of_3_and_5.pdb
