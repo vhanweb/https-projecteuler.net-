@@ -6,4 +6,6 @@ terdiri dari 5 projek
 4. Smallest_multiple
 5. Sum_square_difference
 Petunjuk menjalankan aplikasi berada pada masing-masing folder
+
+
 Projecteuler
